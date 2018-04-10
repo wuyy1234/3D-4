@@ -21,8 +21,9 @@
 
 ## 编程实践  
 
-* 牧师与魔鬼 动作分离版  
-  <img src="http://imglf4.nosdn.127.net/img/aHBnT05NNXVUK2ppYXhIbGYzeU5IZG9TSFRia2xRRUhQbkV1YVc1bkt0TmlLMmFxM3RCTmJ3PT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0"  />  
+* 牧师与魔鬼 动作分离版  
+
+<img src="http://imglf4.nosdn.127.net/img/aHBnT05NNXVUK2ppYXhIbGYzeU5IZG9TSFRia2xRRUhQbkV1YVc1bkt0TmlLMmFxM3RCTmJ3PT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0"  />  
   <img src="http://imglf3.nosdn.127.net/img/aHBnT05NNXVUK2ppYXhIbGYzeU5IVC95eVgxeThObXZOVjJKRGZIY0pOZ3ZhdE9jeHBvRXF3PT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0"  />  
   
 > * 附上视频链接： 
